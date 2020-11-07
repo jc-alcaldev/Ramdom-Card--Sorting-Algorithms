@@ -1,4 +1,9 @@
 @import "~bootstrap/scss/bootstrap.scss";
+body {
+  background: black;
+  height: 100%;
+  color: lawngreen;
+}
 .card {
   border-radius: 1rem;
   margin: 0.5vw;
@@ -7,12 +12,12 @@
   margin: 1vh 3vw;
 }
 .row2 {
-  margin: 1vh 3vw;
+  margin: 3vh 3vw;
 }
 .row3 {
   margin: 1vh 3vw;
 }
-.row {
+.rowSort {
   margin: 1vh 3vw;
 }
 
